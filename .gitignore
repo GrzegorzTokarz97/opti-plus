@@ -15,8 +15,4 @@ yarn-error.log
 .phpunit.result.cache
 .editorconfig
 artisan
-composer.json
-composer.lock
-package.json
-package-lock.json
 server.php
